@@ -1,0 +1,15 @@
+Join_Cou_1 = bar
+Join_Cou_2 = commercial_residential
+Join_Cou_3 = food
+Join_Cou_4 = highrise
+Join_Cou_5 = industrial_park
+Join_Cou_6 = movie_theater
+Join_Cou_7 = park_square
+Join_Cou_8 = residential
+Join_Cou_9 = scenics
+Join_Cou_10 = shopping
+Join_Cou_11 = train
+Join_Cou_12 = subway
+Join_Cou_13 = bus
+Join_Cou_14 = airport
+Join_Cou_15 = public infrastructure
